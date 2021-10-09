@@ -1,4 +1,4 @@
-//META{"name":"NitroEmoteAndScreenShareBypass","source":"https://github.com/skyline69/sharescreenindc","website":"https://github.com/oSumAtrIX"}*//
+//META{"name":"NitroEmoteAndScreenShareBypass","source":"https://github.com/skyline69/sharescreenindc","website":"https://github.com/skyline69"}*//
 class NitroEmoteAndScreenShareBypass {
     getName() {
         return "NitroEmoteAndScreenShareBypass";
